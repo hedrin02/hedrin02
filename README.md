@@ -12,14 +12,11 @@ I build crypto infrastructure products, do fun stuff with AI image generation an
 
 **Prismify** *(discontinued)* — No-code LoRA training for Flux Schnell. Upload images, click a few buttons, get a trained model.
 
-## Stack
-
-Anything 
-
 ## Currently
 
 Daily operations @ordinalgenesis
 
 ---
 
-*Open to collaborations on interesting infra problems.*
+*Open to collaborations on interesting infra problems.* 
+Feel free to contact me at [@hedrin00](https://x.com/hedrin00)
