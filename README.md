@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Hedrin 👋
 
-<!--
-**hedrin02/hedrin02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build crypto infrastructure products, do fun stuff with AI image generation and whatever else catches my eyes.
 
-Here are some ideas to get you started:
+## What I've Built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Ordinal Genesis](https://ordinalgenesis.xyz)** — Leading launchpad for Ordinals on Bitcoin
+
+**[GenesisPad](https://genesispad.xyz)** — Launchpad for EVM NFTs
+
+**[Shovel](https://shovel.space)** — BRC-20 explorer and minting tool. Built as an MVP when the protocol dropped — full-stack work with bleeding-edge Bitcoin stuff.
+
+**Prismify** *(discontinued)* — No-code LoRA training for Flux Schnell. Upload images, click a few buttons, get a trained model.
+
+## Stack
+
+Anything 
+
+## Currently
+
+Daily operations @ordinalgenesis
+
+---
+
+*Open to collaborations on interesting infra problems.*
