@@ -8,7 +8,7 @@ I build crypto infrastructure products, do fun stuff with AI image generation an
 
 **[GenesisPad](https://genesispad.xyz)** — Launchpad for EVM NFTs
 
-**[Shovel](https://shovel.space)** — BRC-20 explorer and minting tool. Built as an MVP when the protocol dropped — full-stack work with bleeding-edge Bitcoin stuff.
+**[Shovel](https://shovel.space)** — BRC-20 explorer and minting tool. Built as an MVP when the protocol dropped
 
 **Prismify** *(discontinued)* — No-code LoRA training for Flux Schnell. Upload images, click a few buttons, get a trained model.
 
