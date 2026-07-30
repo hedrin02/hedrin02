@@ -14,7 +14,7 @@ I build crypto infrastructure products, do fun stuff with AI and whatever else c
 
 **Prismify** *(discontinued)* — No-code LoRA training for Flux Schnell. Upload images, click a few buttons, get a trained model.
 
-**[Shovel](https://styra.xyz)** - Graded pokemon card lending on solana
+**[Styra](https://styra.xyz)** - TCG lending on solana
 
 ## Currently
 Daily operations at OG and ARKAiD
